@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/BlackRose484/BlackRose484/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm BlackRose</h1>
 <h3 align="center">A noob coder from VietNam</h3>
 
