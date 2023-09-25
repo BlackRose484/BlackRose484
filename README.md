@@ -36,7 +36,7 @@
 </a>
 </p>
 
-<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=BlackRose484&show_icons=true&theme=radical">
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrose484&theme=radical" alt="blackrose484" /></p>
