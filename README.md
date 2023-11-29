@@ -86,6 +86,11 @@
 
 <p align="center">
 
+<a href="https://github.com/BlackRose484" target="blank"><img align="center" src="https://img.shields.io/badge/Nguyen_Ngoc_Hung-black?logo=github&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/hungnbc2" target="blank"><img align="center" src="https://img.shields.io/badge/Nguyen_Ngoc_Hung-006400?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+<a href="https://mail.google.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Nguyen_Ngoc_Hung-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/hungnbc2/" target="blank"><img align="center" src="https://img.shields.io/badge/Nguyen_Ngoc_Hung-black?style=flat-square&logo=leetcode&logoColor=yellow" /></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Nguyen_Ngoc_Hung-4267b2?style=flat-square&logo=facebook&logoColor=white" /></a>
 
 ![](https://komarev.com/ghpvc/?username=BlackRose484&style=flat-square)
 
@@ -123,7 +128,12 @@
 ## <picture><img src = "christmas-lights-transparent-background-56832-usagif.gif" width = 50px></picture> **Top Repositories**
 
 <div align="center">
+  <a href="https://github.com/BlackRose484/JS_Project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRose484&repo=JS_Project&show_owner=true&theme=gotham" />
 
+  <a href="https://github.com/BlackRose484/Game-LTNC.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRose484&repo=Game-LTNC&show_owner=true&theme=gotham" />
+</a>
 
 </div>
 
