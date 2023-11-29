@@ -20,7 +20,7 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Phan Anh Tu, and I am curently a Computer Science student with a passion for creating engaging and user-friendly web applications. 
+- Hello, and welcome to my GitHub profile! My name is Nguyen Ngoc Hung, and I am curently a Computer Science student with a passion for creating engaging and user-friendly web applications. 
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
 
@@ -111,9 +111,9 @@
 
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/BlackRose484/BlackRose484/ouput-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackRose484/BlackRose484/ouput-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/BlackRose484/BlackRose484/ouput-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/BlackRose484/BlackRose484/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackRose484/BlackRose484/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/BlackRose484/BlackRose484/output-3d-contrib/day.svg" />
 	</picture>
 </p>
 
