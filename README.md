@@ -1,57 +1,142 @@
-![Logo](https://github.com/BlackRose484/BlackRose484/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm BlackRose</h1>
-<h3 align="center">A noob coder from VietNam</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackrose484" alt="blackrose484" /></a> </p>
-
-- 🌱 I’m currently learning **Computer Science**
-
-- 💬 Ask me about **C++, JavaScript**
-
-- 📫 How to reach me **hungnbc2@gmail.com**
-
-- ⚡ Fun fact **I hate coding**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[www.facebook.com/profile.php?id=100038919591262](https://www.facebook.com/profile.php?id=100038919591262&mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100038919591262" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hungnbc2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hungnbc2" height="30" width="40" /></a>
+<p align="center">
+    <img src="./assets/coding.gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=blackrose484&show_icons=true&locale=en&layout=compact&theme=radical" width=500px height =300px alt="blackrose484" /></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=23F7EB&center=true&vCenter=true&width=1200&height=200&lines=Hello+everyone+!!;My+name+is+Nguyen+Ngoc+Hung...;I'm+a+Computer+Science+student;+at+UET+-+VNU+%E2%9D%A4%EF%B8%8F;Welcome+to+my+Github+profile+%F0%9F%98%8A)](https://git.io/typing-svg)
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture>
+  <source media="(max-width: 767px)" srcset="">
+  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
+</picture>
+
+<br>
+
+
+- Hello, and welcome to my GitHub profile! My name is Phan Anh Tu, and I am curently a Computer Science student with a passion for creating engaging and user-friendly web applications. 
+
+- Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
+
+- My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
+
+- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:hungnbc2@gmail.com">hungnbc2@gmail.com</a>
+
+- Thank you for visiting my profile, and I look forward to connecting with you!
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
+## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></picture> **Skills**
+<br>
+
+<br>
 
 <p align="center">
+
+- **Languages**:
+
+    ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)&nbsp;
+    ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java)&nbsp;
+    ![JavaScript](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=JavaScript)&nbsp;
+
+<br>
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+<br>
+
+<br>
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Render](https://img.shields.io/badge/Render-%23327FC7.svg?style=for-the-badge&logo=render&logoColor=white)
+    
+<br>
+
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+<br>
+
+
+
+
+## <picture><img src = "phonel.gif" width = 50px></picture> **Contacts**
+
+<p align="center">
+
+
+![](https://komarev.com/ghpvc/?username=BlackRose484&style=flat-square)
+
+<br>
+
+
+## <picture><img src = "target-6601.gif" width = 50px></picture> **GitHub Stats**
+
+<div align="center">
   
-<a href="https://github.com/BlackRose484/Game-LTNC.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlackRose484&repo=Game-LTNC&theme=radical"/>
-</a>
+| <a href="https://github.com/BlackRose484?tab=repositories"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackRose484&theme=2077" alt="BlackRose484's github stats" /></a> | <a href="https://github.com/BlackRose484?tab=repositories"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackRose484&theme=2077" /></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/BlackRose484/JS_Project.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlackRose484&repo=JS_Project&theme=radical" />
-</a>
+</div>
+
+
+
+## <picture><img src = "giphy.gif" width = 50px></picture> **Q&A!!**
+
+
+
+## <picture><img src = "l.gif" width = 50px></picture> **GitHub Summary**
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/BlackRose484/BlackRose484/ouput-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlackRose484/BlackRose484/ouput-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/BlackRose484/BlackRose484/ouput-3d-contrib/day.svg" />
+	</picture>
 </p>
 
-<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=BlackRose484&show_icons=true&theme=radical">
-</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrose484&theme=radical" alt="blackrose484" /></p>
 
-<!--
-**BlackRose484/BlackRose484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## <picture><img src = "christmas-lights-transparent-background-56832-usagif.gif" width = 50px></picture> **Top Repositories**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+
+</div>
+
+
+
+<br />
+<br />
+
+
+
+
+
+## Donation 🥰 
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
