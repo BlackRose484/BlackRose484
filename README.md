@@ -47,7 +47,7 @@
 
     ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)&nbsp;
     ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=JavaScript)&nbsp;
+    ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javaScript)&nbsp;
 
 <br>
 
@@ -56,7 +56,13 @@
 - **Front-End Development**:
 
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+   ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
+<br>
+
+- **Back-End Development**:
+
+   ![CSS3](https://img.shields.io/badge/Node%20JS-green?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 <br>
 
 <br>
@@ -133,6 +139,9 @@
 
   <a href="https://github.com/BlackRose484/Game-LTNC.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRose484&repo=Game-LTNC&show_owner=true&theme=gotham" />
+
+  <a href="https://github.com/BlackRose484/Dictionary-App-with-JavaFx.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlackRose484&repo=Dictionary-App-with-JavaFx&show_owner=true&theme=gotham" />
 </a>
 
 </div>
