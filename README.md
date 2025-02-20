@@ -48,6 +48,7 @@
     ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)&nbsp;
     ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java)&nbsp;
     ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javaScript)&nbsp;
+    ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)&nbsp;
 
 <br>
 
